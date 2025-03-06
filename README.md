@@ -1,11 +1,13 @@
 -----Task: Automated Backup Script-----
 
- Creates a backup directory (backup_dir) if it doesn’t exist.
+This Shell script does the following:
 
- Copies all .txt files from the current directory to backup_dir.
+* Creates a backup directory (backup_dir) if it doesn’t exist.
 
- Appends a timestamp to the copied files (e.g., file_20240304.txt).
+* Copies all .txt files from the current directory to backup_dir.
 
- Logs the names of copied files into backup_log.txt.
+* Appends a timestamp to the copied files (e.g., file_20240304.txt).
 
- Displays a message showing how many files were backed up.
+* Logs the names of copied files into backup_log.txt.
+
+* Displays a message showing how many files were backed up.
