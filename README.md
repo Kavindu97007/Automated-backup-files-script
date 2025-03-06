@@ -1,8 +1,8 @@
 -----Task: Automated Backup Script-----
 
->> Creates a backup directory (backup_dir) if it doesn’t exist.
+ Creates a backup directory (backup_dir) if it doesn’t exist.
 
->> Copies all .txt files from the current directory to backup_dir.
+ Copies all .txt files from the current directory to backup_dir.
 
 >> Appends a timestamp to the copied files (e.g., file_20240304.txt).
 
